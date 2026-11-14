@@ -1,0 +1,9 @@
+# 换行符规则：保证跨平台克隆后脚本可用
+# Line-ending rules: keep scripts working after cross-platform clones
+* text=auto
+
+# Shell 脚本必须 LF（Windows 克隆后 bash 才能运行）
+*.sh text eol=lf
+
+# Windows 批处理必须 CRLF
+*.bat text eol=crlf
