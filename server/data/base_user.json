@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "demo",
+      "password": "123456",
+      "nickname": "观文小书童",
+      "createdAt": "2026-08-01 09:00:00",
+      "status": "active"
+    },
+    {
+      "username": "测试作者",
+      "password": "abc123",
+      "nickname": "初代作家",
+      "createdAt": "2026-08-06 12:13:11",
+      "status": "active"
+    },
+    {
+      "username": "新人作者",
+      "password": "123456",
+      "nickname": "新晋创作者",
+      "createdAt": "2026-08-06 12:17:10",
+      "status": "active"
+    },
+    {
+      "username": "验收员",
+      "password": "123456",
+      "nickname": "验收员",
+      "createdAt": "2026-08-06 12:18:45",
+      "status": "active"
+    },
+    {
+      "username": "鲁迅",
+      "password": "admin",
+      "nickname": "鲁迅",
+      "createdAt": "2026-08-06 13:07:47",
+      "status": "active"
+    }
+  ]
+}

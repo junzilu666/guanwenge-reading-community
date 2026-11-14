@@ -1,0 +1,24 @@
+{
+  "growth": {
+    "readExp": 2,
+    "commentExp": 5,
+    "publishExp": 20,
+    "readCoins": 1,
+    "commentCoins": 2,
+    "publishCoins": 5,
+    "checkinCoins": 2,
+    "dailyReadCoinLimit": 3,
+    "expPerLevel": 100
+  },
+  "recommend": {
+    "pinnedWeight": 99,
+    "blueVWeight": 10,
+    "yellowVWeight": 3,
+    "likesWeight": 2,
+    "viewsWeight": 0.5,
+    "newWeight": 5,
+    "verifyApplyCost": 10,
+    "pinCost": 20,
+    "recommendCost": 10
+  }
+}

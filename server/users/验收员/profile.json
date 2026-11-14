@@ -1,0 +1,10 @@
+{
+  "nickname": "验收员",
+  "avatar": "",
+  "bio": "这个人很懒，还没有写简介~",
+  "verify": {
+    "blue": false,
+    "yellow": true,
+    "pending": false
+  }
+}

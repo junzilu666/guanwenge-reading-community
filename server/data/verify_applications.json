@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "username": "测试作者",
+      "time": "2026-08-06 12:16:18",
+      "status": "approved"
+    },
+    {
+      "username": "新人作者",
+      "time": "2026-08-06 12:17:10",
+      "status": "approved"
+    },
+    {
+      "username": "验收员",
+      "time": "2026-08-06 12:18:46",
+      "status": "approved"
+    }
+  ]
+}

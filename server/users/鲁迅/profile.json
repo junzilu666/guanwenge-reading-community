@@ -1,0 +1,10 @@
+{
+  "nickname": "鲁迅",
+  "avatar": "",
+  "bio": "这个人很懒，还没有写简介~",
+  "verify": {
+    "blue": true,
+    "yellow": false,
+    "pending": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "a1004": [
+    {
+      "id": "cmsh078ntwbq6",
+      "articleId": "a1004",
+      "articleTitle": "清晨五点半：城市醒来的第一束光",
+      "user": "测试作者",
+      "nickname": "初代作家",
+      "content": "待删除的违规评论",
+      "time": "2026-08-06 12:16:18",
+      "status": "removed"
+    }
+  ],
+  "a1006": [
+    {
+      "id": "cmsh0aepm96qh",
+      "articleId": "a1006",
+      "articleTitle": "星辰大海：聊聊中国航天的这些年",
+      "user": "验收员",
+      "nickname": "验收员",
+      "content": "最终验收评论",
+      "time": "2026-08-06 12:18:46",
+      "status": "active"
+    }
+  ],
+  "amsh22uglu8xw": []
+}
